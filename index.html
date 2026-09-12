@@ -1167,7 +1167,7 @@ window.__serverEdits = null;
 window.__bootPromise = (async function(){
   let dj = null;
   try {
-    const r = await fetch('data.json?_=' + Date.now(), {cache:'no-store'});
+    const r = await fetch('data-v2.json?_=' + Date.now(), {cache:'no-store'});
     if (r.ok) {
       const j = await r.json();
       if (j && Array.isArray(j.items) && j.items.length) dj = j;
