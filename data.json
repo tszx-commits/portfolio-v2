@@ -1,208 +1,223 @@
 {
-  "name": "张一帆",
-  "bio": "数字媒体艺术",
-  "avatar": "./images/img_01.webp",
-  "aboutContent": "<div class=\"about-intro reveal reveal-delay-1 active\">\n                    <p class=\"editable-text\">性格开朗、积极向上的大三学生，数字媒体艺术专业背景，具备扎实的理论基础和丰\n富的实践经验。在校期间成绩优异，积极参与各类活动，持续拓展技能边界，熟练掌\n握专业设计软件、AI 创作工具及影视后期、三维引擎相关技术。通过英语助教、会务\n协调、产品经理等多份实习经历，不仅锻炼了沟通表达、团队协作能力，更积累了产\n品策划、项目推进及展会落地的实战经验，能够快速适应多元化工作场景。希望能够\n将所学专业技能与实践经验结合，为相关岗位贡献自己的力量。</p>\n                </div>\n                <div class=\"about-details reveal reveal-delay-2 active\">\n                    <div class=\"about-detail-card\">\n                        <div class=\"detail-icon\"><i class=\"fa fa-video-camera\"></i></div>\n                        <div class=\"detail-title editable-text\">3D视觉</div>\n                        <div class=\"detail-desc editable-text\">喜欢用光影和材质搭建有情绪的空间，在 UE5 / Blender 里探索三维叙事的氛围感，享受把抽象概念变成可感知场景的过程。</div>\n                    </div>\n                    <div class=\"about-detail-card\">\n                        <div class=\"detail-icon\"><i class=\"fa fa-paint-brush\"></i></div>\n                        <div class=\"detail-title editable-text\">动态影像</div>\n                        <div class=\"detail-desc editable-text\">对画面节奏和视觉情绪比较敏感，习惯用 After Effects 打磨动态设计与后期氛围，希望让每个镜头都有属于它的呼吸感。。</div>\n                    </div>\n                    <div class=\"about-detail-card\">\n                        <div class=\"detail-icon\"><i class=\"fa fa-code\"></i></div>\n                        <div class=\"detail-title editable-text\">AI创作</div>\n                        <div class=\"detail-desc editable-text\">把 AIGC 当作灵感放大镜，尝试用它拓展视觉表达的边界，让 AI 成为连接想象与成片之间的桥梁。</div>\n                    </div>\n                </div>\n                <div class=\"about-quote reveal reveal-delay-3 active\">\n                    <p class=\"editable-text\">设计不仅是视觉的呈现，更是思想的延伸。每一次创作，都是与世界对话的一次尝试。</p>\n                    <div class=\"quote-author editable-text\">— 张一帆</div>\n                </div>",
-  "email": "1839601443@qq.com",
-  "phone": "+86 18519534699",
-  "location": "北京 · 中国",
-  "footerText": "© 2026 Creative Portfolio. All rights reserved.",
-  "items": [
-    {
-      "type": "video",
-      "title": "产品展示",
-      "desc": "产品概念展示动画\n一条以透明屏显示设备为主体的产品可视化练习。在UE5中完成产品模型的材质调校，以玻璃质感呈现屏幕的通透效果，配合金属与磨砂材质区分机身细节；场景选用极光星空环境搭配镜面地面，让产品浸润在流动的青绿色光晕中；通过Sequencer设计环绕与推近运镜，依次展示产品正面形态、超薄侧影与背部散热结构，以4K规格输出，测试实时引擎在商业产品展示中的应用效果。",
-      "url": "./videos/NewLevelSequence3.mp4",
-      "media": [
+    "name": "张一帆",
+    "bio": "数字媒体艺术",
+    "avatar": "./images/img_01.webp",
+    "aboutContent": "<div class=\"about-intro reveal reveal-delay-1 active\">\n                    <p class=\"editable-text\">性格开朗、积极向上的大三学生，数字媒体艺术专业背景，具备扎实的理论基础和丰\n富的实践经验。在校期间成绩优异，积极参与各类活动，持续拓展技能边界，熟练掌\n握专业设计软件、AI 创作工具及影视后期、三维引擎相关技术。通过英语助教、会务\n协调、产品经理等多份实习经历，不仅锻炼了沟通表达、团队协作能力，更积累了产\n品策划、项目推进及展会落地的实战经验，能够快速适应多元化工作场景。希望能够\n将所学专业技能与实践经验结合，为相关岗位贡献自己的力量。</p>\n                </div>\n                <div class=\"about-details reveal reveal-delay-2 active\">\n                    <div class=\"about-detail-card\">\n                        <div class=\"detail-icon\"><i class=\"fa fa-video-camera\"></i></div>\n                        <div class=\"detail-title editable-text\">3D视觉</div>\n                        <div class=\"detail-desc editable-text\">喜欢用光影和材质搭建有情绪的空间，在 UE5 / Blender 里探索三维叙事的氛围感，享受把抽象概念变成可感知场景的过程。</div>\n                    </div>\n                    <div class=\"about-detail-card\">\n                        <div class=\"detail-icon\"><i class=\"fa fa-paint-brush\"></i></div>\n                        <div class=\"detail-title editable-text\">动态影像</div>\n                        <div class=\"detail-desc editable-text\">对画面节奏和视觉情绪比较敏感，习惯用 After Effects 打磨动态设计与后期氛围，希望让每个镜头都有属于它的呼吸感。。</div>\n                    </div>\n                    <div class=\"about-detail-card\">\n                        <div class=\"detail-icon\"><i class=\"fa fa-code\"></i></div>\n                        <div class=\"detail-title editable-text\">AI创作</div>\n                        <div class=\"detail-desc editable-text\">把 AIGC 当作灵感放大镜，尝试用它拓展视觉表达的边界，让 AI 成为连接想象与成片之间的桥梁。</div>\n                    </div>\n                </div>\n                <div class=\"about-quote reveal reveal-delay-3 active\">\n                    <p class=\"editable-text\">设计不仅是视觉的呈现，更是思想的延伸。每一次创作，都是与世界对话的一次尝试。</p>\n                    <div class=\"quote-author editable-text\">— 张一帆</div>\n                </div>",
+    "email": "1839601443@qq.com",
+    "phone": "+86 18519534699",
+    "location": "北京 · 中国",
+    "footerText": "© 2026 Creative Portfolio. All rights reserved.",
+    "items": [
         {
-          "type": "video",
-          "url": "./videos/NewLevelSequence3.mp4"
+            "uid": "u1789196278329",
+            "type": "video",
+            "title": "Readdy AI 产品功能演示",
+            "desc": "Readdy AI Product Demo\nAI Product Advertising / Commercial Creative\n围绕 Readdy AI 产品核心卖点制作的商业广告视频，从用户场景与产品价值出发设计内容结构，通过产品演示、动态视觉与节奏控制，将产品功能转化为更直观的广告表达。",
+            "date": "2026",
+            "tag": "AE/剪辑/AI生成",
+            "url": "./videos/media_0.mp4",
+            "media": [
+                {
+                    "type": "video",
+                    "url": "./videos/media_0.mp4"
+                }
+            ],
+            "userAdded": true
+        },
+        {
+            "uid": "u1789196389742",
+            "type": "video",
+            "title": "Readdy AI 产品广告",
+            "desc": "Readdy AI Product Advertising\nAI Product Advertising / Commercial Creative\n围绕 Readdy AI 产品核心卖点制作的商业广告视频，从用户场景与产品价值出发设计内容结构，通过产品演示、动态视觉与节奏控制，将产品功能转化为更直观的广告表达。",
+            "date": "2026",
+            "tag": "AE/剪辑/AI生成",
+            "url": "./videos/media_1.mp4",
+            "media": [
+                {
+                    "type": "video",
+                    "url": "./videos/media_1.mp4"
+                }
+            ],
+            "userAdded": true
+        },
+        {
+            "uid": "u1789196483305",
+            "type": "image",
+            "title": "C4D×UE5",
+            "desc": "C4D × UE5 3D Visual\n以三维场景构建与视觉表现为核心的个人项目，使用 C4D 完成基础场景建模与空间构成，并导入 UE5 进行场景搭建、灯光与环境表现，探索三维空间中的镜头语言与氛围塑造。",
+            "date": "2026",
+            "tag": "C4D/UE5/3D建模/渲染",
+            "url": "./images/media_2.png",
+            "media": [
+                {
+                    "type": "image",
+                    "url": "./images/media_2.png"
+                },
+                {
+                    "type": "image",
+                    "url": "./images/media_3.png"
+                }
+            ],
+            "userAdded": true
+        },
+        {
+            "uid": "u1789196659953",
+            "type": "video",
+            "title": "AIGC Visual",
+            "desc": "AIGC Visual\nAI Video / Visual Generation / Post-production\n基于 AI 生成工具完成的视觉内容创作，从创意构思、分镜设计到视觉素材生成与后期包装，探索 AI 在视频内容生产中的实际应用，并通过人工筛选与后期处理统一画面风格和叙事节奏。",
+            "date": "2026",
+            "tag": "AI生成/AE/剪辑",
+            "url": "./videos/media_4.mp4",
+            "media": [
+                {
+                    "type": "video",
+                    "url": "./videos/media_4.mp4"
+                }
+            ],
+            "userAdded": true
+        },
+        {
+            "uid": "u1789197022054",
+            "type": "video",
+            "title": "Readdy AI Campaign A/B",
+            "desc": "Creative Direction / Motion Design / AE\nPerformance Creative\nReaddy AI Campaign A/B 广告素材，围绕同一产品卖点采用特定创意切入方式完成脚本与视频制作，用于实际广告投放测试，并与 Campaign B 进行创意方向对比。",
+            "date": "2026",
+            "tag": "AE/剪辑/AI生成",
+            "url": "./videos/media_5.mp4",
+            "media": [
+                {
+                    "type": "video",
+                    "url": "./videos/media_5.mp4"
+                },
+                {
+                    "type": "video",
+                    "url": "./videos/media_6.mp4"
+                }
+            ],
+            "userAdded": true
+        },
+        {
+            "uid": "u1789197106863",
+            "type": "video",
+            "title": "Readdy AI KOL / Tutorial",
+            "desc": "KOL Content / Product Tutorial\nKOL Content / Product Tutorial\n面向 KOL 与教程类内容制作的产品演示视频，通过实际操作展示 Readdy AI 的功能与使用方式，在保持教程信息完整性的同时兼顾节奏与视觉表达。",
+            "date": "2026",
+            "tag": "AE/剪辑/产品录制",
+            "url": "./videos/media_7.mp4",
+            "media": [
+                {
+                    "type": "video",
+                    "url": "./videos/media_7.mp4"
+                }
+            ],
+            "userAdded": true
+        },
+        {
+            "uid": "u1789197182126",
+            "type": "video",
+            "title": "中国教育电视台年俗短视频",
+            "desc": "年俗文化 / 短视频内容创作\n年俗文化 / 短视频内容创作\n围绕春节年俗与传统文化内容进行短视频创作，从热点与用户兴趣出发完成选题，结合 AI 生成视觉素材，对传统年俗进行视觉化呈现。独立完成从前期选题、素材生成到后期剪辑、字幕包装及成片输出的完整制作流程。",
+            "date": "2026",
+            "tag": "AI生成/剪辑/字幕包装",
+            "url": "./videos/media_8.mp4",
+            "media": [
+                {
+                    "type": "video",
+                    "url": "./videos/media_8.mp4"
+                },
+                {
+                    "type": "video",
+                    "url": "./videos/media_9.mp4"
+                }
+            ],
+            "userAdded": true
+        },
+        {
+            "uid": "u1789197248973",
+            "type": "video",
+            "title": "Readdy AI UGC 广告",
+            "desc": "UGC Creative / Performance Ads\nUGC Creative / Performance Ads\n以真实使用场景为切入点制作的 UGC 风格广告，通过更自然的内容表达降低产品广告的距离感，并结合产品演示与节奏设计强化核心卖点。\nMETA ADS\nSpend $1,257.66\n10 Purchases\nCAC $125.77",
+            "date": "2026",
+            "tag": "AI生成/AE/剪辑",
+            "url": "./videos/media_10.mp4",
+            "media": [
+                {
+                    "type": "video",
+                    "url": "./videos/media_10.mp4"
+                },
+                {
+                    "type": "video",
+                    "url": "./videos/media_11.mp4"
+                }
+            ],
+            "userAdded": true
         }
-      ],
-      "date": "2026",
-      "tag": "3D"
+    ],
+    "edits": {
+        "work.0.title": "Readdy AI 产品广告",
+        "contact.base": "北京 · 中国",
+        "site.name": "张一帆",
+        "hero.seal": "帆",
+        "hero.latin": "ZHANGYIFAN",
+        "hero.k1": "MAJOR / 专业",
+        "hero.kicker": "PORTFOLIO ARCHIVE · 2025 — 2026 · VOL.02",
+        "hero.statement": "<p>以 AIGC 与动态设计为基础，聚焦 AI 产品与数字内容的视频表达。具备从创意构思、脚本分镜、AI 素材生成，到产品录制、UI 动效与后期制作的完整视频创作能力。</p>",
+        "hero.k3": "WORKS / 收录",
+        "hero.focus": "AIGC 视频・AI 视觉内容・动态设计",
+        "contact.email": "18515090988@163.com",
+        "sec.contact": "联系",
+        "contact.phone": "+86 185 1509 0988",
+        "about.author": "— 张一帆 / ZHANG YIFAN",
+        "about.quote": "用 AIGC 拓展视觉边界，用动态影像传递产品价值。每一次创作，都是技术与内容表达的同频共振。",
+        "about.intro": "数字媒体艺术本科生，专注于 AI 产品内容、广告创意与视觉表达。 近 3 个月参与及独立完成 40+ 条 AI 产品视频，从竞品内容拆解、Hook 提炼，到脚本创作、产品演示、AI 素材生成与后期制作，参与完整的商业内容生产流程。 我关注的不只是 “如何做出一条视频”，也关注什么内容值得被看见，以及如何将产品卖点转化为有效的视觉表达。",
+        "about.0.title": "AI产品内容",
+        "about.0.desc": "从产品功能到视觉表达\n围绕 AI 产品进行功能演示、产品宣传、教程及广告内容制作，将复杂功能转化为更直观、更易理解的视觉内容。",
+        "about.1.title": "广告创意 / Motion",
+        "about.1.desc": "从 Hook 到广告素材\n通过竞品与广告内容拆解，提炼 Hook、内容结构与卖点表达，并转化为广告脚本、创意方向、UGC 及 Campaign A/B 素材。",
+        "about.2.title": "AIGC视觉",
+        "about.2.desc": "AI辅助内容创作与视觉实验\n使用 AI 生成工具完成图片、视频及视觉素材创作，并结合分镜、剪辑与后期包装，探索 AI 在内容生产中的更多可能。",
+        "sec.works.sub": "WORKS INDEX — HOVER TO PREVIEW / CLICK TO SCREEN",
+        "work.0.tag": "广告",
+        "work.0.brief": "AI Product Advertising / Commercial Creative",
+        "work.0.desc": "",
+        "work.1.title": "Readdy AI UGC 广告",
+        "work.1.brief": "UGC Creative / Performance Ads",
+        "work.1.tag": "UGC",
+        "work.1.desc": "以真实使用场景为切入点制作的 UGC 风格广告，通过更自然的内容表达降低产品广告的距离感，并结合产品演示与节奏设计强化核心卖点。\nMETA ADS\nSpend $1,257.66\n10 Purchases\nCAC $125.77",
+        "sec.about": "关于",
+        "work.b0.brief": "AI Product Advertising / Commercial Creative",
+        "work.u1789032068028.desc": "UGC Creative / Performance Ads\n以真实使用场景为切入点制作的 UGC 风格广告，通过更自然的内容表达降低产品广告的距离感，并结合产品演示与节奏设计强化核心卖点。\nMETA ADS\nSpend $1,257.66\n10 Purchases\nCAC $125.77",
+        "work.u1789032068028.tag": "AE/AI生成/产品展示",
+        "work.u1789032004361.tag": "AE/剪辑",
+        "work.u1789032303642.tag": "AE/剪辑/AI生成/产品展示",
+        "work.u1789032303642.desc": "面向 KOL 与教程类内容制作的产品演示视频，通过实际操作展示 Readdy AI 的功能与使用方式，在保持教程信息完整性的同时兼顾节奏与视觉表达。",
+        "work.u1789032533689.desc": "以 Readdy AI 产品功能展示为核心，通过产品录制、界面动效与镜头节奏组织信息，将具体功能与使用流程转化为清晰直观的产品演示内容。",
+        "work.u1789032533689.tag": "AE/剪辑/产品演示",
+        "work.u1789032764045.tag": "AE/剪辑/产品教程",
+        "work.u1789032851607.tag": "AE/AI生成/产品教程",
+        "work.u1789033007615.tag": "AE/广告素材/AI生成",
+        "work.u1789033205578.tag": "AE/剪辑/广告素材",
+        "work.u1789033750304.tag": "AIGC/全流程制作",
+        "work.u1789033335899.tag": "AIGC/全流程制作",
+        "mq.2": "AI产品",
+        "mq.4": "AI视频",
+        "mq.6": "视觉设计",
+        "mq.7": "剪辑",
+        "mq.8": "产品演示",
+        "mq.9": "素材",
+        "mq.1": "视觉创意",
+        "work.u1789033007615.desc": "Campaign A / Performance Creative\nReaddy AI Campaign A 广告素材，围绕同一产品卖点采用特定创意切入方式完成脚本与视频制作，用于实际广告投放测试，并与 Campaign B 进行创意方向对比。",
+        "work.u1789033205578.desc": "Campaign B / Performance Creative\nReaddy AI Campaign B 广告素材，在保持核心产品信息一致的基础上采用不同的创意表达方式进行制作，用于与 Campaign A 进行广告素材测试与效果对比。",
+        "work.u1789033205578.title": "Readdy AI Campaign B",
+        "work.u1789196659953.title": "AIGC Visual",
+        "work.u1789196278329.tag": "AE/剪辑/AI生成",
+        "work.u1789196389742.tag": "AE/剪辑/AI生成",
+        "work.u1789196483305.tag": "C4D/UE5/3D建模/渲染",
+        "work.u1789196659953.tag": "AI生成/AE/剪辑",
+        "work.u1789197022054.tag": "AE/剪辑/AI生成",
+        "work.u1789197106863.tag": "AE/剪辑/产品录制",
+        "work.u1789197182126.tag": "AI生成/剪辑/字幕包装",
+        "work.u1789197248973.tag": "AI生成/AE/剪辑",
+        "sec.about.sub": "ABOUT — THE AUTHOR BEHIND THE REEL"
     },
-    {
-      "type": "video",
-      "title": "裸眼3D",
-      "desc": "裸眼3D主题展示视频\n一条为盒体式裸眼3D大屏定制的展示内容，围绕\"服务重大项目\"主题，串联大兴机场、京津冀一体化高铁、环球影城与乡村振兴麦田四个篇章。制作上以大屏的最佳观影视角为基准构建虚拟盒体空间，在UE5中完成各主题场景的搭建与动画，通过让飞机、列车、地球等主体冲出屏幕边框的调度制造\"破屏\"的纵深错觉；金色书法字幕以粒子汇聚的方式浮现，最终按大屏实际分辨率定制渲染输出，测试了裸眼3D内容从场景设计到成片交付的完整流程。",
-      "url": "./videos/合成 1_2.mp4",
-      "media": [
-        {
-          "type": "video",
-          "url": "./videos/合成 1_2.mp4"
-        }
-      ],
-      "date": "2026",
-      "tag": "3D AE"
-    },
-    {
-      "type": "video",
-      "title": "山翼",
-      "desc": "暗黑奇幻场景短片\n围绕黑白色调的暗黑美学搭建的废墟村落场景。制作上先以低饱和场景资产确立压抑的视觉基调，角色的黑袍与兜帽在Marvelous Designer中完成打版、解算与细节定型，再设计面部符文；漂浮碎石通过粒子与物理模拟实现，结尾的羽翼展开为角色骨骼动画，配合逆光剪影与雾气分层，营造黑暗奇幻的戏剧张力。",
-      "url": "./videos/shanyi1.mp4",
-      "media": [
-        {
-          "type": "video",
-          "url": "./videos/shanyi1.mp4"
-        }
-      ],
-      "date": "2025",
-      "tag": "3D"
-    },
-    {
-      "type": "video",
-      "title": "city",
-      "desc": "赛博朋克城市场景短片\n以雨夜未来都市为题的一次场景综合练习。先完成街区布局与高楼资产的组合搭建，再逐层加入霓虹灯牌、全息广告等自发光元素组织视觉焦点；飞行载具与穿城光轨通过样条线路径与粒子效果实现，最后利用体积雾和光线追踪反射强化雨夜的湿润质感，在Sequencer中完成镜头调度与输出。",
-      "url": "./videos/SEQ1.mp4",
-      "media": [
-        {
-          "type": "video",
-          "url": "./videos/SEQ1.mp4"
-        }
-      ],
-      "date": "2026",
-      "tag": "3D"
-    },
-    {
-      "type": "video",
-      "title": "城市之旅",
-      "desc": "日系街道场景短片\n一次AI生图与UE5材质管线结合的完整尝试：场景中的建筑立面、公交站牌、植被等全部材质均由AI生成图像，经裁剪、调色与无缝化处理后导入引擎赋予模型。在此之上用明亮日光、树影斑驳与柔和光晕调校出动画质感的画面，配合公交车驶过站台的调度，还原夏日午后街道的清新氛围。",
-      "url": "./videos/embedded_01.mp4",
-      "media": [
-        {
-          "type": "video",
-          "url": "./videos/embedded_01.mp4"
-        }
-      ],
-      "date": "2026",
-      "tag": "3D"
-    },
-    {
-      "type": "video",
-      "title": "数字人",
-      "desc": "MetaHuman数字人特写动画\n基于MetaHuman与LiveLink流程的数字人表演练习。在MetaHuman Creator中完成少年角色的形象塑造，围巾使用Marvelous Designer制作解算，随后导入UE5搭建雾气弥漫的废墟背景作为表演空间；面部表演通过LiveLink实时捕捉驱动，将表情与眼神动作录制进Sequencer后逐帧修整，配合电影摄影机的宽画幅与浅景深设置聚焦面部，测试数字人在特写镜头下的光影表现与情感传达。",
-      "url": "./videos/embedded_03.mp4",
-      "media": [
-        {
-          "type": "video",
-          "url": "./videos/embedded_03.mp4"
-        }
-      ],
-      "date": "2026",
-      "tag": "3D"
-    },
-    {
-      "type": "video",
-      "title": "游戏设计",
-      "desc": "3D平台跳跃收集小游戏\n一款在UE5中独立完成的第三人称平台跳跃小游戏Demo，以卡通风格的浮空群岛为舞台。玩法逻辑全部由蓝图实现：角色跑跳与镜头跟随、金币收集计数、弹跳板与移动平台等机关、\"消耗3枚金币开启\"的传送门机制，以及羽毛道具解锁飞行能力的成长设计；场景上区分了明亮的浮空岛户外与昏暗的室内陷阱房间两种节奏，并搭建了登顶神庙作为终点。同时完成了金币数、道具状态等HUD界面与通关结算画面，走通了从关卡白盒、玩法蓝图到完整可玩流程的闭环。",
-      "url": "./videos/44d3845c5beb8fee7f852bfefa34e2f6.mp4",
-      "media": [
-        {
-          "type": "video",
-          "url": "./videos/44d3845c5beb8fee7f852bfefa34e2f6.mp4"
-        }
-      ],
-      "date": "2026",
-      "tag": "3D"
-    },
-    {
-      "type": "video",
-      "title": "AIGC",
-      "desc": "AI科幻短片（AI Agent全流程创作）\n一部约五分钟的废土科幻动画短片，也是一次AI Agent\"一站式\"短片工作流的完整实践。故事发生在文明崩塌后的末世：少年穿行废墟拾荒零件，在冷冻舱设施中守护着沉睡的女孩，日夜在工作台前焊接修复，只为让维持生命的核心重新亮起。制作上从剧本构思、分镜与摄影规格设计（景别、运镜、景深）入手，再由AI Agent完成画面生成、图生视频、配音配乐与音效，最后人工把控镜头衔接与节奏完成成片。片中对倒计时、全息界面、冷暖场景色调的反复对照，尝试在AI生成的不确定性中维持叙事与视觉的统一，验证从文字构思到有声短片的全链路可行性。",
-      "url": "./videos/7月21日 (1).mp4",
-      "media": [
-        {
-          "type": "video",
-          "url": "./videos/7月21日 (1).mp4"
-        }
-      ],
-      "date": "2026",
-      "tag": "AIGC"
-    },
-    {
-      "type": "image",
-      "title": "服贸会绿色银行",
-      "desc": "智慧绿色银行网点3D展示视频（服贸会参展项目）\n中国国际服务贸易交易会参展项目，以建设银行智慧绿色网点为原型的三维展示内容，我在团队中负责3D场景搭建与展示视频制作。在UE5中以实时渲染标准还原银行营业厅全貌：大理石大厅、业务柜台、智能柜员机、叫号机等设施按真实网点布局搭建；围绕\"绿色金融、绿色建设、智能化设计、无障碍设计、绿色运营\"五大主题，设计悬浮空间标签与全息数据可视化大屏，将抽象的网点理念转化为可漫游的空间信息；最终通过漫游镜头输出完整的展示视频，在展会现场向观众直观呈现智慧绿色网点的空间形态与服务理念。",
-      "url": "./images/img_02.webp",
-      "media": [
-        {
-          "type": "image",
-          "url": "./images/img_03.webp"
-        },
-        {
-          "type": "image",
-          "url": "./images/img_04.webp"
-        },
-        {
-          "type": "image",
-          "url": "./images/img_05.webp"
-        },
-        {
-          "type": "image",
-          "url": "./images/img_06.webp"
-        }
-      ],
-      "date": "2025",
-      "tag": "3D"
-    },
-    {
-      "type": "video",
-      "title": "AE短片",
-      "desc": "这是一套由 12 支节日节气主题 AE 动效短片组成的商业作品集，每支 15–28 秒，整体服务于工商银行的节日品牌营销——多数片尾带有「工商银行祝您节日快乐」及「您身边的银行，可依赖的银行」落款，定位明确：银行节日节点的新媒体开屏、营业厅大屏与社交传播物料。\n两条鲜明的视觉路线：\n红金鎏金 3D 路线（春节、元宵节、中秋节、国庆节、元旦节、劳动节、七夕节）：以中国红 + 鎏金书法大字为核心，大量使用 3D 挤压文字、烟花/星点粒子、扫光辉光、景深变焦转场，追求节庆的隆重感与金属质感。其中元宵节偏扁平剪纸插画，七夕节则以蓝紫夜空另辟蹊径，是这条路线里的两个变奏。\n水墨青绿路线（春分、夏至、秋分、冬至、端午节）：以中国传统书画语言入画——水墨遮罩显字、飞白书法、朱砂印章、竖排题款，配合青绿山水、荷塘、落叶、飞雪等季节意象，节奏舒缓，文人气质浓，其中端午与节气四支在美学上一脉相承。\n技术层面，整套作品覆盖了 AE 动效的核心手法：粒子系统（烟花、花瓣、落叶、雪）、3D 文字与图层、水墨/遮罩显影、多层视差、景深模糊转场、粒子汇聚成字（冬至的记忆点）、路径动画（喜鹊、飞鸟）等，展现出作者对节日氛围营造和动效节奏控制的成熟把握。\n整体评价：这是一套完成度高、风格统一又有变化的商业节日动效系列——红金线负责「热闹隆重」，水墨线负责「雅致文化」，两条线交替覆盖了全年主要营销节点，体现出作者既能做大气商业片、也能做细腻国风片的双向能力。",
-      "url": "./videos/春节.mp4",
-      "media": [
-        {
-          "type": "video",
-          "url": "./videos/春节.mp4"
-        },
-        {
-          "type": "video",
-          "url": "./videos/冬至.mp4"
-        },
-        {
-          "type": "video",
-          "url": "./videos/端午节.mp4"
-        },
-        {
-          "type": "video",
-          "url": "./videos/国庆节.mp4"
-        },
-        {
-          "type": "video",
-          "url": "./videos/劳动节.mp4"
-        },
-        {
-          "type": "video",
-          "url": "./videos/七夕节.mp4"
-        },
-        {
-          "type": "video",
-          "url": "./videos/秋分.mp4"
-        },
-        {
-          "type": "video",
-          "url": "./videos/夏至.mp4"
-        },
-        {
-          "type": "video",
-          "url": "./videos/元旦节.mp4"
-        },
-        {
-          "type": "video",
-          "url": "./videos/元宵节.mp4"
-        },
-        {
-          "type": "video",
-          "url": "./videos/中秋节.mp4"
-        },
-        {
-          "type": "video",
-          "url": "./videos/春分.mp4"
-        }
-      ],
-      "date": "2025",
-      "tag": "AE"
-    }
-  ]
-}
+    "exportedAt": "2026-09-12T08:54:36.087Z"
